@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Ingredient Label Lookup</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}" />
+  </head>
+  <body>
+    <header>
+      <h1>Ingredient Label Lookup</h1>
+      <p>Search common food label ingredients to learn what they do, where they come from, and any dietary considerations.</p>
+    </header>
+
+    <main>
+      <section class="search">
+        <label for="ingredient-query">Ingredient name</label>
+        <div class="search-input">
+          <input
+            type="search"
+            id="ingredient-query"
+            name="ingredient-query"
+            placeholder="e.g. Ascorbic Acid, E300, Vitamin C"
+            autocomplete="off"
+          />
+          <button id="search-button" type="button">Search</button>
+        </div>
+        <p class="helper">Try ingredient names, E-numbers, or common synonyms.</p>
+      </section>
+
+      <section id="results" class="results">
+        <div class="empty">Start typing to explore ingredient details.</div>
+      </section>
+    </main>
+
+    <footer>
+      <p>
+        Data provided for educational purposes. Always check with healthcare professionals for allergy or
+        dietary concerns.
+      </p>
+    </footer>
+
+    <script src="{{ url_for('static', filename='app.js') }}" defer></script>
+  </body>
+</html>
