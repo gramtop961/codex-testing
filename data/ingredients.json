@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Ascorbic Acid",
+    "synonyms": ["Vitamin C", "E300"],
+    "description": "A naturally occurring antioxidant that helps protect cells and is commonly used as a preservative to prevent oxidation.",
+    "common_uses": [
+      "Fortifying juices and cereals",
+      "Preventing browning in cut fruit",
+      "Supporting immune function"
+    ],
+    "dietary_notes": "Suitable for vegan, vegetarian, and gluten-free diets.",
+    "possible_allergens": "Generally considered safe; rare sensitivity may occur in high doses.",
+    "origin": "Typically derived from citrus fruits or produced synthetically via fermentation."
+  },
+  {
+    "name": "Carrageenan",
+    "synonyms": ["Irish Moss Extract"],
+    "description": "A fiber extracted from red seaweed that acts as a thickener and stabilizer in many dairy and non-dairy products.",
+    "common_uses": [
+      "Improving texture in plant-based milks",
+      "Preventing separation in chocolate milk",
+      "Thickening sauces and dressings"
+    ],
+    "dietary_notes": "Suitable for vegan and vegetarian diets; compliant with halal and kosher standards.",
+    "possible_allergens": "May cause digestive discomfort in sensitive individuals when consumed in large amounts.",
+    "origin": "Harvested from species of red seaweed such as Chondrus crispus."
+  },
+  {
+    "name": "Citric Acid",
+    "synonyms": ["E330"],
+    "description": "A weak organic acid found naturally in citrus fruits, commonly used as a flavor enhancer and preservative.",
+    "common_uses": [
+      "Adding tartness to beverages",
+      "Adjusting acidity in canned tomatoes",
+      "Preserving jams and jellies"
+    ],
+    "dietary_notes": "Suitable for vegan, vegetarian, and gluten-free diets.",
+    "possible_allergens": "Rare cases of intolerance have been reported, typically related to contamination during production.",
+    "origin": "Produced through fermentation using Aspergillus niger or extracted from citrus fruit."
+  },
+  {
+    "name": "Soy Lecithin",
+    "synonyms": ["E322", "Lecithin"],
+    "description": "An emulsifier derived from soybeans that helps blend ingredients that would otherwise separate, such as oil and water.",
+    "common_uses": [
+      "Smoothing texture in chocolate",
+      "Improving shelf life of baked goods",
+      "Stabilizing salad dressings"
+    ],
+    "dietary_notes": "Suitable for vegetarian and gluten-free diets; often avoided by individuals limiting soy intake.",
+    "possible_allergens": "Contains soy and should be avoided by people with soy allergies unless labeled as highly refined.",
+    "origin": "Typically extracted from soybean oil during processing."
+  },
+  {
+    "name": "Xanthan Gum",
+    "synonyms": ["E415"],
+    "description": "A polysaccharide produced by fermenting sugars with Xanthomonas bacteria, used to thicken and stabilize foods.",
+    "common_uses": [
+      "Providing structure to gluten-free baked goods",
+      "Thickening salad dressings",
+      "Improving mouthfeel in frozen desserts"
+    ],
+    "dietary_notes": "Suitable for vegan and vegetarian diets; naturally gluten-free.",
+    "possible_allergens": "May cause digestive discomfort in large amounts; typically safe for most individuals.",
+    "origin": "Produced via controlled fermentation and purified before use in food products."
+  }
+]
